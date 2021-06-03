@@ -1,5 +1,5 @@
 {
-  "name": "@pancakeswap/token-lists",
+  "name": "@meteo/token-lists",
   "version": "2.12.2",
   "main": "dist/index.js",
   "type": "module",
@@ -32,5 +32,5 @@
     "@uniswap/token-lists": "^1.0.0-beta.21",
     "ajv": "6.12.2"
   },
-  "gitHead": "823ae32ad335f7c30afbfded2c63e5a9b925a284"
+  "gitHead": "411de392aaf0156390ef949eaef10237e6f61f9c"
 }
