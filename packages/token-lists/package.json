@@ -31,5 +31,6 @@
     "@ethersproject/address": "^5.1.0",
     "@uniswap/token-lists": "^1.0.0-beta.21",
     "ajv": "6.12.2"
-  }
+  },
+  "gitHead": "f65fa44fa96bea4b5ae9d33e51297f7c974c30f3"
 }
