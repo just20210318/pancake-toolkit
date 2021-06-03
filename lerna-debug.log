@@ -1,0 +1,21 @@
+66 error Error: Command failed with exit code 1: git commit -F C:\Users\Admin\AppData\Local\Temp\fb73bfe9-bb73-4eee-9594-73b7008ae052\lerna-commit.txt
+66 error husky > pre-commit (node v14.16.1)
+66 error $ lerna run format:check
+66 error lerna notice cli v4.0.0
+66 error lerna info versioning independent
+66 error lerna info Executing command in 1 package: "yarn run format:check"
+66 error lerna ERR! yarn run format:check exited 2 in '@meteo/uikit'
+66 error lerna ERR! yarn run format:check stdout:
+66 error $ prettier --check --loglevel error 'src/**/*.{js,jsx,ts,tsx}'
+66 error info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+66 error lerna ERR! yarn run format:check stderr:
+66 error [error] No files matching the pattern were found: "'src/**/*.{js,jsx,ts,tsx}'".
+66 error error Command failed with exit code 2.
+66 error lerna ERR! yarn run format:check exited 2 in '@meteo/uikit'
+66 error error Command failed with exit code 2.
+66 error info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+66 error husky > pre-commit hook failed (add --no-verify to bypass)
+66 error     at makeError (C:\Users\Admin\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\lib\error.js:59:11)
+66 error     at handlePromise (C:\Users\Admin\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:114:26)
+66 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+66 error     at async Promise.all (index 0)
