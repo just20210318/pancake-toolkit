@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.38.4](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@meteo/uikit@0.38.3...@meteo/uikit@0.38.4) (2021-06-03)
+
+**Note:** Version bump only for package @meteo/uikit
+
+
+
+
+
 ## [0.38.3](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@meteo/uikit@0.38.2...@meteo/uikit@0.38.3) (2021-06-03)
 
 **Note:** Version bump only for package @meteo/uikit
